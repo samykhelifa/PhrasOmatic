@@ -16,6 +16,4 @@ fun main() {
     /*println((Math.random()* 5).toInt())
     println((Math.random() * arraySize1).toInt())*/
 
-
-
 }
